@@ -1,6 +1,6 @@
 # CS-255: DriverPass Portfolio Submission
 
-## 📝 Project Overview
+##  Project Overview
 The DriverPass project was developed to assist a client from Engage Learning Group in offering an integrated online and on-the-road training program for driving students. The system was designed to streamline registration, lesson scheduling, practice exams, and progress tracking. It also supports role-specific functionality for instructors, administrators, and secretaries.
 
 ## What I Did Well
